@@ -1,0 +1,543 @@
+---
+popupOnHover: true
+popupTemplate: |
+  <div style="text-align:center;">
+    {% if properties.name %}<strong>{{properties.name}}</strong><br/>{% endif %}
+    {% if properties.image %}
+      <img src="https://nice.rocks/uploads/{{properties.image}}" style="max-width:250px; max-height:200px; border-radius:4px; margin-top:4px;" />
+    {% endif %}
+  </div>
+---
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.553417, 48.211833]},
+      "properties": {
+        "name": "Rock 066 - Lostmarc'h, Crozon",
+        "image": "/compressed_1787698614.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.553667, 48.212167]},
+      "properties": {
+        "name": "Rock 065 - Lostmarc'h, Crozon",
+        "image": "/compressed_1787698594.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.553861, 48.212250]},
+      "properties": {
+        "name": "Rock 064 - Lostmarc'h, Crozon",
+        "image": "/compressed_1787698566.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.553861, 48.212250]},
+      "properties": {
+        "name": "Rock 063 - Lostmarc'h, Crozon",
+        "image": "/compressed_1787698538.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.553639, 48.212194]},
+      "properties": {
+        "name": "Rock 062 - Lostmarc'h, Crozon",
+        "image": "/compressed_1787698515.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.553028, 48.211167]},
+      "properties": {
+        "name": "Rock 061 - Lostmarc'h, Crozon",
+        "image": "/compressed_1787698488.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.447972, 48.291278]},
+      "properties": {
+        "name": "Rock 060 - Kertanguy, Lanvéoc",
+        "image": "/compressed_1786287987.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.447111, 48.291194]},
+      "properties": {
+        "name": "Rock 059 - Kertanguy, Lanvéoc",
+        "image": "/compressed_1786288014.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.447444, 48.291306]},
+      "properties": {
+        "name": "Rock 058 - Kertanguy, Lanvéoc",
+        "image": "/compressed_1786288055.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [5.352806, 43.280389]},
+      "properties": {
+        "name": "Rock 057 - Pont de la Fausse Monnaie, Marseille",
+        "image": "/compressed_1786288080.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [5.352806, 43.280389]},
+      "properties": {
+        "name": "Rock 056 - Pont de la Fausse Monnaie, Marseille",
+        "image": "/compressed_1785599006.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [5.352806, 43.280389]},
+      "properties": {
+        "name": "Rock 055 - Pont de la Fausse Monnaie, Marseille",
+        "image": "/compressed_1785599030.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [5.352889, 43.280472]},
+      "properties": {
+        "name": "Rock 054 - Pont de la Fausse Monnaie, Marseille",
+        "image": "/compressed_1785598960.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.401861, 48.834333]},
+      "properties": {
+        "name": "Rock 053 - Petite Ceinture, Île-de-France",
+        "image": "/compressed_1775390645.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.400861, 48.833778]},
+      "properties": {
+        "name": "Rock 052 - Petite Ceinture, Île-de-France",
+        "image": "/compressed_1775390618.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.400139, 48.833083]},
+      "properties": {
+        "name": "Rock 051 - Petite Ceinture, Île-de-France",
+        "image": "/compressed_1775390590.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.572306, 48.307222]},
+      "properties": {
+        "name": "Rock 050 - Tregoudan, Roscanvel",
+        "image": "/compressed_1769523636.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.572250, 48.307000]},
+      "properties": {
+        "name": "Rock 049 - Tregoudan, Roscanvel",
+        "image": "/compressed_1769523596.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.572250, 48.307000]},
+      "properties": {
+        "name": "Rock 048 - Tregoudan, Roscanvel",
+        "image": "/compressed_1769523570.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.571972, 48.306750]},
+      "properties": {
+        "name": "Rock 047 - Tregoudan, Roscanvel",
+        "image": "/compressed_1769523513.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.552306, 48.203028]},
+      "properties": {
+        "name": "Rock 046 - Dunes de la Palue, Crozon",
+        "image": "/compressed_1767390941.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.552250, 48.202611]},
+      "properties": {
+        "name": "Rock 045 - Dunes de la Palue, Crozon",
+        "image": "/compressed_1767390842.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.552250, 48.202611]},
+      "properties": {
+        "name": "Rock 044 - Dunes de la Palue, Crozon",
+        "image": "/compressed_1767391082.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.565528, 48.232250]},
+      "properties": {
+        "name": "Rock 043 - Kerguillé, Crozon",
+        "image": "/compressed_1766870185.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.565639, 48.232139]},
+      "properties": {
+        "name": "Rock 042 - Kerguillé, Crozon",
+        "image": "/compressed_1766870161.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.565361, 48.232250]},
+      "properties": {
+        "name": "Rock 041 - Kerguillé, Crozon",
+        "image": "/compressed_1766870143.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.565056, 48.232500]},
+      "properties": {
+        "name": "Rock 040 - Kerguillé, Crozon",
+        "image": "/compressed_1766870121.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.565333, 48.232306]},
+      "properties": {
+        "name": "Rock 039 - Kerguillé, Crozon",
+        "image": "/compressed_1766870100.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.455722, 48.292500]},
+      "properties": {
+        "name": "Rock 038 - La Cale, Lanvéoc",
+        "image": "/compressed_1766870079.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.456278, 48.292333]},
+      "properties": {
+        "name": "Rock 037 - La Cale, Lanvéoc",
+        "image": "/compressed_1766870061.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.456472, 48.292333]},
+      "properties": {
+        "name": "Rock 036 - La Cale, Lanvéoc",
+        "image": "/compressed_1766870042.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.456500, 48.292222]},
+      "properties": {
+        "name": "Rock 035 - La Cale, Lanvéoc",
+        "image": "/compressed_1766870023.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.447611, 48.781944]},
+      "properties": {
+        "name": "Rock 034 - Rue Jean Gabin, Créteil",
+        "image": "/compressed_1766870007.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.446806, 48.781389]},
+      "properties": {
+        "name": "Rock 033 - Rue Jean Gabin, Créteil",
+        "image": "/compressed_1766869991.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.448028, 48.780861]},
+      "properties": {
+        "name": "Rock 032 - Rue Jean Gabin, Créteil",
+        "image": "/compressed_1766869965.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.457083, 48.292111]},
+      "properties": {
+        "name": "Rock 031 - La Cale, Lanvéoc",
+        "image": "/compressed_1766869941.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.456222, 48.292583]},
+      "properties": {
+        "name": "Rock 030 - La Cale, Lanvéoc",
+        "image": "/compressed_1766869922.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.618278, 48.277056]},
+      "properties": {
+        "name": "Rock 029 - Pointe de Toulinguet, Camaret-sur-Mer",
+        "image": "/compressed_1766869903.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.617611, 48.276500]},
+      "properties": {
+        "name": "Rock 028 - Pointe de Toulinguet, Camaret-sur-Mer",
+        "image": "/compressed_1766869886.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.617528, 48.276556]},
+      "properties": {
+        "name": "Rock 027 - Pointe de Toulinguet, Camaret-sur-Mer",
+        "image": "/compressed_1766869866.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.617694, 48.276611]},
+      "properties": {
+        "name": "Rock 026 - Pointe de Toulinguet, Camaret-sur-Mer",
+        "image": "/compressed_1766869847.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.617667, 48.276639]},
+      "properties": {
+        "name": "Rock 025 - Pointe de Toulinguet, Camaret-sur-Mer",
+        "image": "/compressed_1766869822.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.467222, 48.288667]},
+      "properties": {
+        "name": "Rock 024 - Ar Voelaz, Lanvéoc",
+        "image": "/compressed_1766869800.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.467778, 48.288389]},
+      "properties": {
+        "name": "Rock 023 - Ar Voelaz, Lanvéoc",
+        "image": "/compressed_1766869779.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.466111, 48.289056]},
+      "properties": {
+        "name": "Rock 022 - Ar Voelaz, Lanvéoc",
+        "image": "/compressed_1766869721.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.465194, 48.289472]},
+      "properties": {
+        "name": "Rock 021 - Ar Voelaz, Lanvéoc",
+        "image": "/compressed_1766869696.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.551194, 48.197750]},
+      "properties": {
+        "name": "Rock 020 - Dunes de Kerdreux, Saint-Hernot",
+        "image": "/compressed_1766869677.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.551111, 48.197917]},
+      "properties": {
+        "name": "Rock 019 - Dunes de Kerdreux, Saint-Hernot",
+        "image": "/compressed_1766869656.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.551306, 48.197972]},
+      "properties": {
+        "name": "Rock 018 - Dunes de Kerdreux, Saint-Hernot",
+        "image": "/compressed_1766869637.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.551222, 48.197667]},
+      "properties": {
+        "name": "Rock 017 - Dunes de Kerdreux, Saint-Hernot",
+        "image": "/compressed_1766869618.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.551111, 48.197556]},
+      "properties": {
+        "name": "Rock 016 - Dunes de Kerdreux, Saint-Hernot",
+        "image": "/compressed_1766869602.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.550861, 48.196778]},
+      "properties": {
+        "name": "Rock 015 - Dunes de Kerdreux, Saint-Hernot",
+        "image": "/compressed_1766869583.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.446139, 48.291222]},
+      "properties": {
+        "name": "Rock 014 - Kertanguy, Lanvéoc",
+        "image": "/compressed_1766869568.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.447389, 48.291306]},
+      "properties": {
+        "name": "Rock 013 - Kertanguy, Lanvéoc",
+        "image": "/compressed_1766869552.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.448000, 48.291333]},
+      "properties": {
+        "name": "Rock 012 - Kertanguy, Lanvéoc",
+        "image": "/compressed_1766869538.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.557500, 48.174806]},
+      "properties": {
+        "name": "Rock 011 - Sentier Côtier, Crozon",
+        "image": "/compressed_1766869522.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.557583, 48.174278]},
+      "properties": {
+        "name": "Rock 010 - Sentier Côtier, Crozon",
+        "image": "/compressed_1766869502.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.562944, 48.235917]},
+      "properties": {
+        "name": "Rock 009 - Kerguillé, Crozon",
+        "image": "/compressed_1766869487.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.563028, 48.235722]},
+      "properties": {
+        "name": "Rock 008 - Kerguillé, Crozon",
+        "image": "/compressed_1766869454.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.563028, 48.235722]},
+      "properties": {
+        "name": "Rock 007 - Kerguillé, Crozon",
+        "image": "/compressed_1766869437.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.554778, 48.197306]},
+      "properties": {
+        "name": "Rock 006 - Dunes de Kerdreux, Crozon",
+        "image": "/compressed_1766869421.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.551750, 48.199639]},
+      "properties": {
+        "name": "Rock 005 - Dunes de Kerdreux, Crozon",
+        "image": "/compressed_1766869405.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.551472, 48.199833]},
+      "properties": {
+        "name": "Rock 004 - Dunes de Kerdreux, Crozon",
+        "image": "/compressed_1766869387.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.551528, 48.199861]},
+      "properties": {
+        "name": "Rock 003 - Dunes de Kerdreux, Crozon",
+        "image": "/compressed_1766869372.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.551472, 48.200083]},
+      "properties": {
+        "name": "Rock 002 - Dunes de Kerdreux, Crozon",
+        "image": "/compressed_1766869354.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-4.551500, 48.200222]},
+      "properties": {
+        "name": "Rock 001 - Dunes de Kerdreux, Crozon",
+        "image": "/compressed_1766869340.jpeg"
+      }
+    }
+  ]
+}
